@@ -1,0 +1,9 @@
+---
+tomcat_ip: ""
+mysql_ip: ""
+
+
+#Mysql Connection Variables
+mysql_user: ""
+mysql_pass: ""
+mysql_db: ""
